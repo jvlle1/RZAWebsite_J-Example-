@@ -1,0 +1,49 @@
+﻿.body {
+    font-family: ar
+}
+
+.text {
+    font-size: 24px;
+    color: red;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-group {
+    flex: 1;
+    margin-right: 10px; /* Add space between the two input fields */
+}
+
+    .form-group:last-child {
+        margin-right: 0;
+    }
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.button {
+    background-color: #BAAE99;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+}
