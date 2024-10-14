@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RZAWebsite_J", "RZAWebsite_J\RZAWebsite_J.csproj", "{8ED40EEC-43CB-4786-9B91-B87F1DAD57BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED40EEC-43CB-4786-9B91-B87F1DAD57BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED40EEC-43CB-4786-9B91-B87F1DAD57BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED40EEC-43CB-4786-9B91-B87F1DAD57BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED40EEC-43CB-4786-9B91-B87F1DAD57BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94B51B25-3F9F-4696-8B32-483223A12F15}
+	EndGlobalSection
+EndGlobal
